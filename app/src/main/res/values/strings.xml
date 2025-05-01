@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_mkvquize">MKVQUIZE</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="title_activity_review_screen">ReviewScreen</string>
+    <string name="title_activity_results_screen">ResultsScreen</string>
+</resources>
